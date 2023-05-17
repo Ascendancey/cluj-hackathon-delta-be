@@ -1,0 +1,103 @@
+The Productdata for the washing machine LG F4WV710P1E are following. The link for this product is: https://www.mediamarkt.de/de/product/_lg-f4wv710p1e-2693865.html
+
+Price: 549€
+
+Füllmenge Baumwolle (Waschen): 10.5 kg
+Produkttyp: Waschmaschine
+Beladung: Frontlader
+Bauform: Standgerät
+Bauart: freistehend
+Schallleistung Schleudern: 71 dB (A)
+Steuerung: elektronisch
+Programme: Anzahl Programme: 14
+Programme: 14 vorprogrammierte Programme, 6 unterschiedliche Trommelbewegungen (besonders schonend). Steam: Tiefenreinigung mit Dampf mit speziellem Programm wie Allergy Care. TurboWash360°: Halbe Beladung in 39 Min. Waschen mit Hilfe von 4 Multi-Einsprühdüsen. Koch-/Buntwäsche, Eco 40-60, TurboWash 39, Mix, Pflegeleicht, Nachtprogramm, AllergyCare, Feinwäsche, Schonend/Wolle, Sportswear, Kurz 14, Bettdecken, Trommelreinigung, Download/Neu.
+Automatikprogramme: 14
+Dampffunktion: Ja
+Anzahl Spülgänge: 2
+Temperaturbereich: Kalt/20/30/40/60/95°C
+Schleuderdrehzahl Optionen: 1400/1200/1000/800/400/No
+Funktion ohne Schleudern: Ja
+Ausstattung: Knitterschutz: Nein
+Mengenautomatik: Ja
+Dosierungsautomatik: Nein
+Beladungserkennung: Ja
+Besondere Merkmale: AI DD: Intelligente Erkennung der Fasern für bis zu 18 % mehr Gewebeschutz. Edelstahl Mitnehmer: Hygienisch, Strapazierfähig und keine Verfärbungen. Inverter Direct Drive™ : Energieeffizienter, langlebiger und leiser Motor. Smart ThinQ™: vernetzte Zukunft eingebaut. Add Item: Vergessene Wäschestücke einfach nachlegen. TwinWash fähig: kompatibel mit der Mini-Waschmaschine.
+Halbe Beladung-Funktion: Ja
+Schaumerkennung: Nein
+Schmutzerkennung: Nein
+Textilart Erkennung: Nein
+Unwuchtkontrolle: Ja
+Bullauge: Glasfenster
+Trommelmaterial: Edelstahl
+Schontrommel: Ja
+Trommelvolumen: 68 l
+Reversierfunktion: Ja
+Türanschlag: links
+Art der Türöffnung: Griff
+Kindersicherung: Ja
+Innenbeleuchtung: Nein
+WLAN: Ja
+App-steuerbar: Ja
+Sicherheitsmerkmale: Sicherheitsglastür: Stabil, kratzfest, hygienisch und hitzebeständig. AquaLock™ (Vollwasserschutz).
+Überlaufschutz: AquaLock™ (Vollwasserschutz)
+Bürstenloser Motor: Ja
+für Allergiker geeignet: Ja
+Anzeige/Steuerung: Bedienelemente: Display & Drehknopf
+Bluetooth: Nein
+Near Field Communication: Nein
+Display: Digitales Touchdisplay mit Restanzeige und Startzeitvorwahl.
+Wählbare Sprachen im Display: Keine
+Restzeitanzeige: Ja
+Startzeitvorwahl: Ja (3-19 Std)
+Signal bei Programmende: Ja
+Energieversorgung: Anschlusswert: 2100 Watt
+Eingangsspannung: 220-240 Volt
+Frequenz: 50 Hz
+Absicherung: 16 Ampere
+Steckerart: Schuckostecker
+Allgemeine Merkmale: Abmessungen (B/H/T): 600 mm x 850 mm x 565 mm
+Gewerbemaschine: Nein
+Smart Home Bereich: Waschmaschinen
+System oder kompatibel mit System: WiFi
+Suitable for IKEA kitchens: Nein
+Farbe (laut Hersteller): Weiß
+Arbeitsplatte abnehmbar: Nein
+Höhe mit Arbeitsplatte: 850 mm
+Höhe: 850 mm
+Breite: 600 mm
+Tiefe: 565 mm
+Höhenverstellbare Füße: Ja - vorne und hinten
+Höhenverstellbare Füße maximal: 20 mm
+Rollen: Nein
+Länge Anschlusskabel: 1500 mm
+Gewicht (laut Hersteller): 70 kg
+Gewicht: 70 kg
+Lieferumfang: Waschmaschine, Kaltwasserzulaufschlauch, Bedienungsanleitung.
+Ursprungsland/Herkunftsort: China
+Hersteller Artikelnummer: F4WV710P1E.ABWQWDG
+Energieverbrauchsangaben (EU 2017/1369): Energieeffizienzklasse (EU 2017/1369): A
+EU Energy Efficiency Scale (EU 2017/1369): A-G
+Modelkennung: F4WV710P1E
+Füllmenge Baumwolle (Waschen): 10.5 kg
+Energieeffizienzindex Waschen (EEIW): 51.9
+Wascheffizienzindex: 1.031
+Spülwirkung (g/kg): 5
+Energieverbrauch in kWh pro Betriebszyklus im Programm eco 40-60: 0.522 kWh
+Gewichteter Energieverbrauch pro 100 Betriebszyklen in kWh: 53 kWh
+Wasserverbrauch in Litern pro Betriebszyklus im Programm eco 40-60: 53 l
+Höchste Temperatur innerhalb der behandelten Textilien: 36 °C
+Restfeuchte: 44.5 %
+Schleuderdrehzahl: 1360 U/Min.
+Schleudereffizienzklasse (EU 2017/1369): A
+Programmdauer in h:min: 4:00
+Type: Free-standing
+Schallleistung Schleudern: 71 dB (A)
+Luftschallemissionsklasse Schleudergang (EU 2017/1369): A
+Aus-Zustand (W): 0.5 Watt
+Bereitschaftszustand (W): 0.5 Watt
+Zeitvorwahl (W) (falls zutreffend): 4 Watt
+vernetzter Bereitschaftsbetrieb (W) (falls zutreffend): 2 Watt
+Vergleichsprogramm (Bemessungsgrundlage): eco 40-60
+Update Richtlinie: Modelljahr: 2020
+Herstellerunterstützte Software updates: Nein
+Nachhaltigkeit: BetterWay. Erfüllt die Kriterien von: BetterWay Washers and Dryers

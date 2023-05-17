@@ -1,0 +1,88 @@
+The Productdata for the washing machine OK. OWM 5112 D Waschmaschine are following. The link for this product is: https://www.mediamarkt.de/de/product/_ok-owm-5112-d-2665050.html
+
+Price: 229,99€
+
+Füllmenge Baumwolle (Waschen): 5 kg
+Produkttyp: Waschmaschine
+Beladung: Frontlader
+Bauform: Standgerät
+Bauart: freistehend
+Schallleistung Schleudern: 76 dB (A)
+Steuerung: elektronisch
+Programme: Anzahl Programme: 15
+Programme: Baumwolle 90°, Baumwolle mit Vorwäsche, Baumwolle 60°C, Eco 40°- 60°, Baumwolle 20°C, Synthetik, Wolle, Spülen, Schleudern, Feinwäsche, Farbig 40°C, Mix, Hemden, Schnell 60°C 60 Min., Express 15 Min.
+Dampffunktion: Nein
+Temperaturbereich: 20°/30°/40°/60°/90°
+Schleuderdrehzahl Optionen: 600/800/1000 U/Min
+Ausstattung: Knitterschutz: Nein
+Mengenautomatik: Ja
+Dosierungsautomatik: Nein
+Beladungserkennung: Ja
+Besondere Merkmale: Extra Spülgang, Vorwäsche, Kurzprogramm 15 Minuten, antibakterielle Manschette und Waschmittelschublade
+Schaumerkennung: Ja
+Schmutzerkennung: Nein
+Textilart Erkennung: Nein
+Feuchtigkeitssensor: Nein
+Unwuchtkontrolle: Ja
+Bullauge: Plexiglasfenster
+Trommelmaterial: Edelstahl
+Schontrommel: Nein
+Reversierfunktion: Nein
+Türanschlag: links
+Kindersicherung: Ja
+Säulenfähig: Ja
+Innenbeleuchtung: Nein
+WLAN: Nein
+App-steuerbar: Nein
+Überlaufschutz: Ja
+Bürstenloser Motor: Nein
+für Allergiker geeignet: Nein
+Anzeige/Steuerung: Bedienelemente: Drehregler
+Bluetooth: Nein
+Display: Nein
+Restzeitanzeige: Nein
+Startzeitvorwahl: 3h, 6h, 9h, 12h
+Filter Kontrollanzeige: Nein
+Signal bei Programmende: Nein
+Energieversorgung: Anschlusswert: 2.100 Watt
+Eingangsspannung: 220-240 Volt
+Frequenz: 50 Hz
+Absicherung: 10 Ampere
+Allgemeine Merkmale: Abmessungen (B/H/T): 595 mm x 840 mm x 495 mm
+Gewerbemaschine: Nein
+Farbe (laut Hersteller): Weiß
+Durchmesser Bullauge: 300 mm
+Arbeitsplatte abnehmbar: Nein
+Höhe: 840 mm
+Breite: 595 mm
+Tiefe: 495 mm
+Höhenverstellbare Füße: Ja
+Höhenverstellbare Füße maximal: 10 mm
+Rollen: Nein
+Länge Anschlusskabel: 1500 mm
+Gewicht (laut Hersteller): 54.4 kg
+Gewicht: 54.4 kg
+Lieferumfang: Waschmaschine, Bedienungsanleitung
+Hersteller Artikelnummer: 201839
+Energieverbrauchsangaben (EU 2017/1369): Energieeffizienzklasse (EU 2017/1369): D
+EU Energy Efficiency Scale (EU 2017/1369): A-G
+Modelkennung: OWM 5112 D
+Füllmenge Baumwolle (Waschen): 5 kg
+Energieeffizienzindex Waschen (EEIW): 80
+Wascheffizienzindex: 1.04
+Spülwirkung (g/kg): 5.0
+Energieverbrauch in kWh pro Betriebszyklus im Programm eco 40-60: 0.602 kWh
+Gewichteter Energieverbrauch pro 100 Betriebszyklen in kWh: 60 kWh
+Wasserverbrauch in Litern pro Betriebszyklus im Programm eco 40-60: 41 l
+Höchste Temperatur innerhalb der behandelten Textilien: 42 °C
+Restfeuchte: 62 %
+Schleuderdrehzahl: 1000 U/Min.
+Schleudereffizienzklasse (EU 2017/1369): C
+Programmdauer in h:min: 3:00
+Type: Free-standing
+Schallleistung Schleudern: 76 dB (A)
+Luftschallemissionsklasse Schleudergang (EU 2017/1369): B
+Aus-Zustand (W): 0.5 Watt
+Bereitschaftszustand (W): 1 Watt
+Zeitvorwahl (W) (falls zutreffend): 4 Watt
+Vergleichsprogramm (Bemessungsgrundlage): eco 40-60
